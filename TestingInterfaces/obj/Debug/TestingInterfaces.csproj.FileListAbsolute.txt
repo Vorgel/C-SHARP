@@ -1,0 +1,7 @@
+C:\Users\ja\source\repos\C#\TestingInterfaces\bin\Debug\TestingInterfaces.exe.config
+C:\Users\ja\source\repos\C#\TestingInterfaces\bin\Debug\TestingInterfaces.exe
+C:\Users\ja\source\repos\C#\TestingInterfaces\bin\Debug\TestingInterfaces.pdb
+C:\Users\ja\source\repos\C#\TestingInterfaces\obj\Debug\TestingInterfaces.csprojAssemblyReference.cache
+C:\Users\ja\source\repos\C#\TestingInterfaces\obj\Debug\TestingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\ja\source\repos\C#\TestingInterfaces\obj\Debug\TestingInterfaces.exe
+C:\Users\ja\source\repos\C#\TestingInterfaces\obj\Debug\TestingInterfaces.pdb

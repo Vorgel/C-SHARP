@@ -1,0 +1,7 @@
+C:\Users\ja\source\repos\C#\Polymorphysm Example\bin\Debug\Polymorphysm Example.exe.config
+C:\Users\ja\source\repos\C#\Polymorphysm Example\bin\Debug\Polymorphysm Example.exe
+C:\Users\ja\source\repos\C#\Polymorphysm Example\bin\Debug\Polymorphysm Example.pdb
+C:\Users\ja\source\repos\C#\Polymorphysm Example\obj\Debug\Polymorphysm Example.csprojAssemblyReference.cache
+C:\Users\ja\source\repos\C#\Polymorphysm Example\obj\Debug\Polymorphysm Example.csproj.CoreCompileInputs.cache
+C:\Users\ja\source\repos\C#\Polymorphysm Example\obj\Debug\Polymorphysm Example.exe
+C:\Users\ja\source\repos\C#\Polymorphysm Example\obj\Debug\Polymorphysm Example.pdb
